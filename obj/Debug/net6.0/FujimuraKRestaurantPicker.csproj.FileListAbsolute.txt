@@ -13,3 +13,18 @@
 /Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/FujimuraKGitHubChallenge/FujimuraKRestaurantPicker/obj/Debug/net6.0/FujimuraKRestaurantPicker.pdb
 /Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/FujimuraKGitHubChallenge/FujimuraKRestaurantPicker/obj/Debug/net6.0/FujimuraKRestaurantPicker.genruntimeconfig.cache
 /Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/FujimuraKGitHubChallenge/FujimuraKRestaurantPicker/obj/Debug/net6.0/ref/FujimuraKRestaurantPicker.dll
+C:\Users\harry\OneDrive\Desktop\Git Repositories\FujimuraKRestaurantPicker\bin\Debug\net6.0\FujimuraKRestaurantPicker.exe
+C:\Users\harry\OneDrive\Desktop\Git Repositories\FujimuraKRestaurantPicker\bin\Debug\net6.0\FujimuraKRestaurantPicker.deps.json
+C:\Users\harry\OneDrive\Desktop\Git Repositories\FujimuraKRestaurantPicker\bin\Debug\net6.0\FujimuraKRestaurantPicker.runtimeconfig.json
+C:\Users\harry\OneDrive\Desktop\Git Repositories\FujimuraKRestaurantPicker\bin\Debug\net6.0\FujimuraKRestaurantPicker.dll
+C:\Users\harry\OneDrive\Desktop\Git Repositories\FujimuraKRestaurantPicker\bin\Debug\net6.0\FujimuraKRestaurantPicker.pdb
+C:\Users\harry\OneDrive\Desktop\Git Repositories\FujimuraKRestaurantPicker\obj\Debug\net6.0\FujimuraKRestaurantPicker.csproj.AssemblyReference.cache
+C:\Users\harry\OneDrive\Desktop\Git Repositories\FujimuraKRestaurantPicker\obj\Debug\net6.0\FujimuraKRestaurantPicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\OneDrive\Desktop\Git Repositories\FujimuraKRestaurantPicker\obj\Debug\net6.0\FujimuraKRestaurantPicker.AssemblyInfoInputs.cache
+C:\Users\harry\OneDrive\Desktop\Git Repositories\FujimuraKRestaurantPicker\obj\Debug\net6.0\FujimuraKRestaurantPicker.AssemblyInfo.cs
+C:\Users\harry\OneDrive\Desktop\Git Repositories\FujimuraKRestaurantPicker\obj\Debug\net6.0\FujimuraKRestaurantPicker.csproj.CoreCompileInputs.cache
+C:\Users\harry\OneDrive\Desktop\Git Repositories\FujimuraKRestaurantPicker\obj\Debug\net6.0\FujimuraKRestaurantPicker.dll
+C:\Users\harry\OneDrive\Desktop\Git Repositories\FujimuraKRestaurantPicker\obj\Debug\net6.0\refint\FujimuraKRestaurantPicker.dll
+C:\Users\harry\OneDrive\Desktop\Git Repositories\FujimuraKRestaurantPicker\obj\Debug\net6.0\FujimuraKRestaurantPicker.pdb
+C:\Users\harry\OneDrive\Desktop\Git Repositories\FujimuraKRestaurantPicker\obj\Debug\net6.0\FujimuraKRestaurantPicker.genruntimeconfig.cache
+C:\Users\harry\OneDrive\Desktop\Git Repositories\FujimuraKRestaurantPicker\obj\Debug\net6.0\ref\FujimuraKRestaurantPicker.dll
