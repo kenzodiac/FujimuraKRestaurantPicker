@@ -2,7 +2,7 @@
 //Date Revised: 10-20-2022
 //GitHub Challenges #9: Restaurant Picker
 //This is a console program that helps a user select a restaurant to eat from. The user selects a cateogry of restaurant, and then the program chooses at random which restaurant to pick from a list of predetermined choices, discriminating based on the preselected category.
-//Peer Reviewed By: see attached README file
+//Peer Reviewed By: 
 
 Console.Clear();
 //declare variables
