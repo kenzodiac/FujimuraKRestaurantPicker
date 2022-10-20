@@ -1,0 +1,15 @@
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/FujimuraKGitHubChallenge/FujimuraKRestaurantPicker/bin/Debug/net6.0/FujimuraKRestaurantPicker
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/FujimuraKGitHubChallenge/FujimuraKRestaurantPicker/bin/Debug/net6.0/FujimuraKRestaurantPicker.deps.json
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/FujimuraKGitHubChallenge/FujimuraKRestaurantPicker/bin/Debug/net6.0/FujimuraKRestaurantPicker.runtimeconfig.json
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/FujimuraKGitHubChallenge/FujimuraKRestaurantPicker/bin/Debug/net6.0/FujimuraKRestaurantPicker.dll
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/FujimuraKGitHubChallenge/FujimuraKRestaurantPicker/bin/Debug/net6.0/FujimuraKRestaurantPicker.pdb
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/FujimuraKGitHubChallenge/FujimuraKRestaurantPicker/obj/Debug/net6.0/FujimuraKRestaurantPicker.csproj.AssemblyReference.cache
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/FujimuraKGitHubChallenge/FujimuraKRestaurantPicker/obj/Debug/net6.0/FujimuraKRestaurantPicker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/FujimuraKGitHubChallenge/FujimuraKRestaurantPicker/obj/Debug/net6.0/FujimuraKRestaurantPicker.AssemblyInfoInputs.cache
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/FujimuraKGitHubChallenge/FujimuraKRestaurantPicker/obj/Debug/net6.0/FujimuraKRestaurantPicker.AssemblyInfo.cs
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/FujimuraKGitHubChallenge/FujimuraKRestaurantPicker/obj/Debug/net6.0/FujimuraKRestaurantPicker.csproj.CoreCompileInputs.cache
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/FujimuraKGitHubChallenge/FujimuraKRestaurantPicker/obj/Debug/net6.0/FujimuraKRestaurantPicker.dll
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/FujimuraKGitHubChallenge/FujimuraKRestaurantPicker/obj/Debug/net6.0/refint/FujimuraKRestaurantPicker.dll
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/FujimuraKGitHubChallenge/FujimuraKRestaurantPicker/obj/Debug/net6.0/FujimuraKRestaurantPicker.pdb
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/FujimuraKGitHubChallenge/FujimuraKRestaurantPicker/obj/Debug/net6.0/FujimuraKRestaurantPicker.genruntimeconfig.cache
+/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/FujimuraKGitHubChallenge/FujimuraKRestaurantPicker/obj/Debug/net6.0/ref/FujimuraKRestaurantPicker.dll
