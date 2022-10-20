@@ -1,6 +1,6 @@
 ﻿//Kenneth Fujimura
 //Date Revised: 10-20-2022
-//GitHub Challenges: Restaurant Picker
+//GitHub Challenges #9: Restaurant Picker
 //This is a console program that helps a user select a restaurant to eat from. The user selects a cateogry of restaurant, and then the program chooses at random which restaurant to pick from a list of predetermined choices, discriminating based on the preselected category.
 //Peer Reviewed By: see attached README file
 
@@ -17,10 +17,10 @@ int InputValidation(){
     while (!isValid) {
         string stringInput = Console.ReadLine();
         bool isNumber = Int32.TryParse(stringInput, out inputPass);
-        if (isNumber == true && inputPass >= 1 && inputPass <= 3){
+        if (isNumber == true && inputPass >= 1 && inputPass <= 4){
                 isValid = true;
             } else {
-                Console.Write("\nInvalid entry. Please enter a whole number or 'Integer' between 1 and 3: ");
+                Console.WriteLine("\nInvalid entry. Please enter a whole number or 'Integer' between 1 and 4: ");
             }
     }
     return inputPass;
@@ -34,8 +34,10 @@ int RestaurantCategory(int inputPass){
         output = rnd.Next(0,9);
     } else if (inputPass == 2) {
         output = rnd.Next(10, 19);
-    } else {
+    } else if (inputPass == 3){
         output = rnd.Next(20, 29);
+    } else {
+        output = rnd.Next(0, 29);
     }
     return output;
 } 
@@ -84,23 +86,12 @@ void RestaurantSelection(int inputPass, int rndNumPass) {
         };
     
     //switch statement that determines which response is printed out to the user
-    switch (inputPass){
-        case 1:
-            Console.WriteLine($"You should eat at {restaurantList[rndNumPass]}.");
-            break;
-        case 2:
-            Console.WriteLine($"You sould eat at {restaurantList[rndNumPass]}.");
-            break;
-        case 3:
-            Console.WriteLine($"You should eat at {restaurantList[rndNumPass]}.");
-            break;
-        default:
-            break;
-    }
+    Console.WriteLine($"\nYou should eat at \"{restaurantList[rndNumPass]}\".");
 }
+
 //method for determining if the program should be repeated
 bool Repeat(){
-    Console.Write("Would you like to get a different recommendation? Type \"Y\"/\"Yes\" or \"N\"/\"No\": ");
+    Console.Write("\nWould you like to get a different recommendation? Type \"Y\"/\"Yes\" or \"N\"/\"No\": ");
     bool answerCheck = true;
     while (answerCheck == true){
         string input = Console.ReadLine().ToLower();
@@ -111,7 +102,7 @@ bool Repeat(){
             playAgain = false;
             Console.WriteLine("Good Bye");
         } else {
-            Console.Write("I do not understand that input. Please either type \"Y\"/\"Yes\" or \"N\"/\"No\": ");
+            Console.Write("\nI do not understand that input. Please either type \"Y\"/\"Yes\" or \"N\"/\"No\": ");
         }
     }
     return playAgain;
@@ -124,7 +115,8 @@ Console.WriteLine("Welcome to Restaurant Picker! Please choose a category and we
 while (playAgain == true){
     Console.WriteLine("Type \"1\" if you would like to eat in Lodi");
     Console.WriteLine("Type \"2\" if you would like to eat in Stockton");
-    Console.WriteLine("Type \"3\" if you would like to eat Fast Food\n");
+    Console.WriteLine("Type \"3\" if you would like to eat Fast Food");
+    Console.WriteLine("Type \"4\" if you don't care where you would like to eat");
 
     input = InputValidation();
     num = RestaurantCategory(input);
